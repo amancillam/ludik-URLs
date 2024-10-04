@@ -1,0 +1,7 @@
+https://anotherdomain.com/page.html
+https://shoponline.com/product.html
+https://ludik.com/shop/product.html
+https://example.com/page.html
+https://myshop.net/item.html
+https://shop.shop.html
+https://no-shop-site.com/not-shop.html
