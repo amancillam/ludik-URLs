@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 ## Explico un poco el porque:
 
-**BENEFICIOS SET**: La verificación de duplicados en un Set es O(1) (tiempo constante) en promedio, lo que mejora significativamente la eficiencia, especialmente si el número de URLs es grande.
+**BENEFICIOS SET**: La verificación de duplicados en un Set, lo que mejora significativamente la eficiencia, especialmente si el número de URLs es grande.
 Filtrado usando propiedades específicas del objeto URL:
 
 **BENEFICIOS URLs**:Se utiliza la clase URL nativa de JavaScript, que es mucho más eficiente para descomponer las URLs en partes (como el hostname y pathname).
